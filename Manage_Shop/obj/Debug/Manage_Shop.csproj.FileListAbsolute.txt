@@ -13,3 +13,10 @@ E:\DOANMONHOC\PTPM\Manage_Shop\Manage_Shop\Manage_Shop\obj\Debug\Manage_Shop.pdb
 C:\Users\Huy Huy\Documents\GitHub\Manage_Shop\Manage_Shop\bin\Debug\Manage_Shop.exe.config
 C:\Users\Huy Huy\Documents\GitHub\Manage_Shop\Manage_Shop\obj\Debug\Manage_Shop.exe
 C:\Users\Huy Huy\Documents\GitHub\Manage_Shop\Manage_Shop\obj\Debug\Manage_Shop.pdb
+E:\DOANMONHOC\PTPM\Manage_Shop\Manage_Shop\Manage_Shop\bin\Debug\Manage_Shop.exe
+E:\DOANMONHOC\PTPM\Manage_Shop\Manage_Shop\Manage_Shop\bin\Debug\Manage_Shop.pdb
+E:\DOANMONHOC\PTPM\Manage_Shop\Manage_Shop\Manage_Shop\obj\Debug\Manage_Shop.csprojResolveAssemblyReference.cache
+E:\DOANMONHOC\PTPM\Manage_Shop\Manage_Shop\Manage_Shop\obj\Debug\Manage_Shop.frmMain.resources
+E:\DOANMONHOC\PTPM\Manage_Shop\Manage_Shop\Manage_Shop\obj\Debug\Manage_Shop.frm_DNhap.resources
+E:\DOANMONHOC\PTPM\Manage_Shop\Manage_Shop\Manage_Shop\obj\Debug\Manage_Shop.Properties.Resources.resources
+E:\DOANMONHOC\PTPM\Manage_Shop\Manage_Shop\Manage_Shop\obj\Debug\Manage_Shop.csproj.GenerateResource.Cache
