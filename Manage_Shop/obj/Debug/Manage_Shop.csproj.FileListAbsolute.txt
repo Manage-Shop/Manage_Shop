@@ -1,0 +1,12 @@
+E:\ĐỒ ÁN MÔN HỌC\Phát Triển Phần Mềm\Manage_Shop\Manage_Shop\Manage_Shop\bin\Debug\Manage_Shop.exe.config
+E:\ĐỒ ÁN MÔN HỌC\Phát Triển Phần Mềm\Manage_Shop\Manage_Shop\Manage_Shop\bin\Debug\Manage_Shop.exe
+E:\ĐỒ ÁN MÔN HỌC\Phát Triển Phần Mềm\Manage_Shop\Manage_Shop\Manage_Shop\bin\Debug\Manage_Shop.pdb
+E:\ĐỒ ÁN MÔN HỌC\Phát Triển Phần Mềm\Manage_Shop\Manage_Shop\Manage_Shop\obj\Debug\Manage_Shop.csprojResolveAssemblyReference.cache
+E:\ĐỒ ÁN MÔN HỌC\Phát Triển Phần Mềm\Manage_Shop\Manage_Shop\Manage_Shop\obj\Debug\Manage_Shop.Properties.Resources.resources
+E:\ĐỒ ÁN MÔN HỌC\Phát Triển Phần Mềm\Manage_Shop\Manage_Shop\Manage_Shop\obj\Debug\Manage_Shop.csproj.GenerateResource.Cache
+E:\ĐỒ ÁN MÔN HỌC\Phát Triển Phần Mềm\Manage_Shop\Manage_Shop\Manage_Shop\obj\Debug\Manage_Shop.exe
+E:\ĐỒ ÁN MÔN HỌC\Phát Triển Phần Mềm\Manage_Shop\Manage_Shop\Manage_Shop\obj\Debug\Manage_Shop.pdb
+E:\ĐỒ ÁN MÔN HỌC\Phát Triển Phần Mềm\Manage_Shop\Manage_Shop\Manage_Shop\obj\Debug\Manage_Shop.frm_DNhap.resources
+E:\DOANMONHOC\PTPM\Manage_Shop\Manage_Shop\Manage_Shop\bin\Debug\Manage_Shop.exe.config
+E:\DOANMONHOC\PTPM\Manage_Shop\Manage_Shop\Manage_Shop\obj\Debug\Manage_Shop.exe
+E:\DOANMONHOC\PTPM\Manage_Shop\Manage_Shop\Manage_Shop\obj\Debug\Manage_Shop.pdb
