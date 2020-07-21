@@ -20,3 +20,8 @@ E:\DOANMONHOC\PTPM\Manage_Shop\Manage_Shop\Manage_Shop\obj\Debug\Manage_Shop.frm
 E:\DOANMONHOC\PTPM\Manage_Shop\Manage_Shop\Manage_Shop\obj\Debug\Manage_Shop.frm_DNhap.resources
 E:\DOANMONHOC\PTPM\Manage_Shop\Manage_Shop\Manage_Shop\obj\Debug\Manage_Shop.Properties.Resources.resources
 E:\DOANMONHOC\PTPM\Manage_Shop\Manage_Shop\Manage_Shop\obj\Debug\Manage_Shop.csproj.GenerateResource.Cache
+E:\DOANMONHOC\PTPM\Manage_Shop\Manage_Shop\Manage_Shop\bin\Debug\Database1.mdf
+E:\DOANMONHOC\PTPM\Manage_Shop\Manage_Shop\Manage_Shop\bin\Debug\Database1_log.ldf
+C:\Users\Huy Huy\Documents\GitHub\Manage_Shop\Manage_Shop\Manage_Shop\bin\Debug\Manage_Shop.exe.config
+C:\Users\Huy Huy\Documents\GitHub\Manage_Shop\Manage_Shop\Manage_Shop\obj\Debug\Manage_Shop.exe
+C:\Users\Huy Huy\Documents\GitHub\Manage_Shop\Manage_Shop\Manage_Shop\obj\Debug\Manage_Shop.pdb
