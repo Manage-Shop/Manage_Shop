@@ -10,3 +10,6 @@ E:\ĐỒ ÁN MÔN HỌC\Phát Triển Phần Mềm\Manage_Shop\Manage_Shop\Manag
 E:\DOANMONHOC\PTPM\Manage_Shop\Manage_Shop\Manage_Shop\bin\Debug\Manage_Shop.exe.config
 E:\DOANMONHOC\PTPM\Manage_Shop\Manage_Shop\Manage_Shop\obj\Debug\Manage_Shop.exe
 E:\DOANMONHOC\PTPM\Manage_Shop\Manage_Shop\Manage_Shop\obj\Debug\Manage_Shop.pdb
+C:\Users\Huy Huy\Documents\GitHub\Manage_Shop\Manage_Shop\bin\Debug\Manage_Shop.exe.config
+C:\Users\Huy Huy\Documents\GitHub\Manage_Shop\Manage_Shop\obj\Debug\Manage_Shop.exe
+C:\Users\Huy Huy\Documents\GitHub\Manage_Shop\Manage_Shop\obj\Debug\Manage_Shop.pdb
