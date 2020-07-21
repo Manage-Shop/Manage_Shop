@@ -32,6 +32,11 @@ namespace Manage_Shop
             txtMK.Text = null;
         }
 
+        private void btnDN_Click(object sender, EventArgs e)
+        {
+
+        }
+
 
     }
 }

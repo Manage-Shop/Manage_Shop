@@ -117,6 +117,7 @@
             this.btnDN.TabIndex = 12;
             this.btnDN.Text = "Đăng Nhập";
             this.btnDN.UseVisualStyleBackColor = false;
+            this.btnDN.Click += new System.EventHandler(this.btnDN_Click);
             // 
             // txtMK
             // 
