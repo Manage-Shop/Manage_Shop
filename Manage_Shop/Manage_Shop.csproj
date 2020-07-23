@@ -76,13 +76,43 @@
     <Compile Include="frm_DNhap.Designer.cs">
       <DependentUpon>frm_DNhap.cs</DependentUpon>
     </Compile>
+    <Compile Include="HoaDonUC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="HoaDonUC.Designer.cs">
+      <DependentUpon>HoaDonUC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NhanVienUC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="NhanVienUC.Designer.cs">
+      <DependentUpon>NhanVienUC.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SanPhamUC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SanPhamUC.Designer.cs">
+      <DependentUpon>SanPhamUC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TrangChuUC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TrangChuUC.Designer.cs">
+      <DependentUpon>TrangChuUC.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="frmMain.resx">
       <DependentUpon>frmMain.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frm_DNhap.resx">
       <DependentUpon>frm_DNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HoaDonUC.resx">
+      <DependentUpon>HoaDonUC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NhanVienUC.resx">
+      <DependentUpon>NhanVienUC.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -93,6 +123,12 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="SanPhamUC.resx">
+      <DependentUpon>SanPhamUC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TrangChuUC.resx">
+      <DependentUpon>TrangChuUC.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Database1DataSet.xsc">
       <DependentUpon>Database1DataSet.xsd</DependentUpon>
     </None>
